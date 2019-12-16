@@ -1,0 +1,13 @@
+.btn-yellow {
+	background-color: #ffe680;
+	color: #470000;
+	padding: 10px 20px  ;
+	border-radius: 5px;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 24px;
+}
+
+.btn-yellow:hover {
+	background-color: #470000;
+	color: #ffe680;
+}
